@@ -173,4 +173,11 @@ Importance:
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt: "Tell me about the weather."
+
 Improved Prompt: "Provide a detailed weather forecast for Nairobi for the next three days, including temperature, precipitation and wind conditions."
+
+The improved prompt is more effective because of its:
+1. Clarity: The improved prompt specifies the location (Nairobi) and the timeframe (next three days), eliminating ambiguity about what "the weather" refers to. This clarity helps the AI understand exactly what information is being requested.
+2. Specificity: By requesting specific details such as temperature, precipitation and wind conditions, the improved prompt guides the AI to provide a comprehensive response. This ensures that the output includes all relevant aspects of the weather forecast.
+3. Conciseness: The improved prompt is direct and to the point, making it easier for the AI to process and generate a focused response. This reduces the likelihood of irrelevant or extraneous information being included in the output.
+
