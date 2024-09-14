@@ -10,6 +10,14 @@ Software engineering systematically applies engineering principles to create and
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+These include:
+1. The birth of Software Engineering (1968):
+Software engineering was first introduced in Germany during the NATO Software Engineering Conference. It marked a significant shift from viewing software development as a mere programming task to recognizing it as a discipline that requires engineering principles to ensure quality and reliability.
+2. The introduction of the Waterfall Model (1970):
+The first formalized methodologies, the Waterfall model, proposed by Winston W. Royce, is a linear and sequential approach which allowed for clear stages in software development, including requirement analysis, design, implementation, testing and maintenance. It laid the groundwork for many future methodologies and emphasized the importance of documentaion and planning.
+3. The Agile Manifesto (2001):
+It was created by a group of developers seeking to improve the flexibility and responsiveness of development processes. It introduced principles that prioritize customer collaboration, adaptive planning and rapid delivery of functional software. Agile methodologies have since transformed the software engineering landscape, promoting iterative development and continuous feedback, which have become standard practices in the industry.
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
